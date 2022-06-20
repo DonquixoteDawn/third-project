@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d9cd4e6bcc9551409c92dce493a72e6, type: 3}
+  m_Name: Cloba
+  m_EditorClassIdentifier: 
+  items:
+  - kind: 2
+    sprite: {fileID: -1902635812, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 1
+  - kind: 2
+    sprite: {fileID: 596247244, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 2
+  - kind: 2
+    sprite: {fileID: -604394790, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 3
+  - kind: 2
+    sprite: {fileID: -11543556, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 4
+  - kind: 2
+    sprite: {fileID: 1958193082, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 5
+  - kind: 2
+    sprite: {fileID: -274883690, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 6
+  - kind: 2
+    sprite: {fileID: 812020226, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 7
+  - kind: 2
+    sprite: {fileID: 980653132, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 8
+  - kind: 2
+    sprite: {fileID: 879122561, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 9
+  - kind: 2
+    sprite: {fileID: -940429203, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 10
+  - kind: 2
+    sprite: {fileID: -1201787023, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 11
+  - kind: 2
+    sprite: {fileID: 1278279160, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 12
+  - kind: 2
+    sprite: {fileID: 1638341861, guid: 32e63aa0753a9164c8279601fde5b1a6, type: 3}
+    cardNum: 13

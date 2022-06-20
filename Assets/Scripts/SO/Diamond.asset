@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d9cd4e6bcc9551409c92dce493a72e6, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  items:
+  - kind: 1
+    sprite: {fileID: -1379057814, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 1
+  - kind: 1
+    sprite: {fileID: -1098469950, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 2
+  - kind: 1
+    sprite: {fileID: 311004679, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 3
+  - kind: 1
+    sprite: {fileID: -1662933083, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 4
+  - kind: 1
+    sprite: {fileID: 1328554356, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 5
+  - kind: 1
+    sprite: {fileID: -1336600137, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 6
+  - kind: 1
+    sprite: {fileID: 1321480735, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 7
+  - kind: 1
+    sprite: {fileID: 546673704, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 8
+  - kind: 1
+    sprite: {fileID: 2041860590, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 9
+  - kind: 1
+    sprite: {fileID: 571212822, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 10
+  - kind: 1
+    sprite: {fileID: 466712912, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 11
+  - kind: 1
+    sprite: {fileID: 952484947, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 12
+  - kind: 1
+    sprite: {fileID: -2097903799, guid: 980e7bfe982ad244691e40eeafb9b90b, type: 3}
+    cardNum: 13

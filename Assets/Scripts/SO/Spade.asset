@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d9cd4e6bcc9551409c92dce493a72e6, type: 3}
+  m_Name: Spade
+  m_EditorClassIdentifier: 
+  items:
+  - kind: 0
+    sprite: {fileID: -2146894819, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 1
+  - kind: 0
+    sprite: {fileID: -965868156, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 2
+  - kind: 0
+    sprite: {fileID: -67815976, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 3
+  - kind: 0
+    sprite: {fileID: 1429867939, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 4
+  - kind: 0
+    sprite: {fileID: 2118083588, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 5
+  - kind: 0
+    sprite: {fileID: 231410278, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 6
+  - kind: 0
+    sprite: {fileID: 1787312763, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 7
+  - kind: 0
+    sprite: {fileID: 219823383, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 8
+  - kind: 0
+    sprite: {fileID: -532823364, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 9
+  - kind: 0
+    sprite: {fileID: 365068634, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 10
+  - kind: 0
+    sprite: {fileID: 179144007, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 11
+  - kind: 0
+    sprite: {fileID: -521139627, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 12
+  - kind: 0
+    sprite: {fileID: -1755689948, guid: 0af4d21defd7d2d4dba6395516e2994c, type: 3}
+    cardNum: 13
